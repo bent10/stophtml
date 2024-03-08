@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/bent10/stophtml/compare/v1.0.0...v1.0.1) (2024-03-08)
+
+
+### Bug Fixes
+
+* **deps:** pin ([fb2a817](https://github.com/bent10/stophtml/commit/fb2a81778eeee3058d324d7ab35839c0ff183a64))
+
 # 1.0.0 (2024-03-08)
 
 
