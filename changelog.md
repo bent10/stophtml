@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/bent10/stophtml/compare/v1.0.2...v1.0.3) (2024-08-28)
+
+
+### Bug Fixes
+
+* **deps:** update `doogu` to `v4.0.4` ([0d98791](https://github.com/bent10/stophtml/commit/0d987918793bb27fc2be2f0a9844962838100faa))
+
 ## [1.0.2](https://github.com/bent10/stophtml/compare/v1.0.1...v1.0.2) (2024-03-08)
 
 
