@@ -46,7 +46,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "doogu": "4.0.4",
+    "doogu": "4.1.0",
     "vite-plugin-resolve-umd-format": "1.0.0"
   },
   "config": {
